@@ -8,7 +8,7 @@ I am currently looking for new opportunities in tech 💼, if you are interested
 
 - 🌱 Currently learning ReactJS
 - 👯 Open to freelance projects
-- 📫 How to reach me: margauxpichard@gmail.com or https://www.linkedin.com/in/margauxpichard/
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/margauxpichard/)
 
 
 - 📍 Native from Normandy – Based in Nantes
