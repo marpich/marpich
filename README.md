@@ -12,8 +12,8 @@ I am currently looking for new opportunities in tech 💼, if you are interested
 
 
 - 📍 Native from Normandy – Based in Nantes
-- 🏃🏼‍♀️ Dynamic and Curious
 - 🌊 Nature and Water Sports Lover
+- 🏃🏼‍♀️ Curious and Dynamic
 
 <!--
 **marpich/marpich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
