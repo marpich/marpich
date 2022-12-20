@@ -7,10 +7,7 @@ Today I am a Ruby on Rails Developer 👩🏼‍💻 and keep working on develop
 
 I am currently looking for new opportunities in tech 💼, if you are interested in my hybrid profile, I would be thrilled to discuss with you ✨.
 
-- 🌱 Currently learning ReactJS
-- 👯 Open to freelance projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/margauxpichard/)
-
 - 📍 Native from Normandy – Based in Nantes
 - 🌊 Nature and Water Sports Lover
 - 🏃🏼‍♀️ Curious and Dynamic
@@ -28,4 +25,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 Currently learning ReactJS
+- 👯 Open to freelance projects
 -->
